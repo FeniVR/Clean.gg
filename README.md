@@ -33,7 +33,7 @@ It offers a powerful Trust Score system, toxicity detection (inspired by GGWP), 
 ### Web Panel & API (dev)
 
 # Clone
-git clone https://github.com/your-username/clean.gg.git
+git clone https://github.com/fenivr/clean.gg.git
 cd clean.gg
 
 # Backend setup
