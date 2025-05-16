@@ -1,7 +1,7 @@
 
 # Clean.gg
 
-**Clean.gg** is an open-source multiplayer and VR moderation & security system for game developers.  
+**Clean.gg** is multiplayer and VR moderation & security system for game developers.  
 It offers a powerful Trust Score system, toxicity detection (inspired by GGWP), Discord integration, web panel, REST API, and a Unity SDK.
 
 ---
